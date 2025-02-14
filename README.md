@@ -9,9 +9,9 @@ The **Ration Card Web Application** is designed to help users manage their ratio
 - 📞 **Contact Us** – Reach out to customer support for inquiries or issues.  
 
 ## 🛠 Tech Stack  
-- **Frontend**: HTML, CSS, JavaScript (React.js or Vanilla JS)  
-- **Backend**: Node.js (Express) / Django / Flask  
-- **Database**: MySQL / MongoDB / PostgreSQL  
+- **Frontend**: HTML, CSS, JavaScript (React.js )  
+- **Backend**: Django
+- **Database**: MongoDB
 
 ## 🚀 Installation & Setup  
 1. **Clone the Repository**  
@@ -60,6 +60,6 @@ The **Ration Card Web Application** is designed to help users manage their ratio
 This project is licensed under the **MIT License**.  
 
 ## 📩 Contact  
-For any issues, suggestions, or inquiries, email **support@rationapp.com**.  
+For any issues, suggestions, or inquiries, email **vedant8405@gmail.com**.  
 
 🔥 **Happy Coding!** 🚀
