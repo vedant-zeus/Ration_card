@@ -1,0 +1,26 @@
+*{
+            background-color: black;
+}
+.box{
+            height: 100dvh;
+            display: flex;
+            justify-content: center;
+            align-items:center ;
+}
+.loading-screen{
+            
+            height: 80px;
+            width: 80px;
+            border: 10px solid #003566;
+            border-radius: 50%;
+            border-top: 10px solid #FFC300;
+            animation: spins 1.5s ease-in-out 0ms infinite normal;
+}
+@keyframes spins{
+            from {
+                        transform: rotate(0deg);
+            }
+            to {
+                        transform: rotate(360deg);
+            }
+}

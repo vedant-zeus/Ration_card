@@ -1,0 +1,111 @@
+*{
+            margin: 0%;
+            padding: 0%;
+            
+}
+.main-rc{
+            background-color: rgb(174, 174, 174);
+            height: 1050px;
+            width: 98%;
+            border: 2px dotted black;
+            margin: 10px;
+            margin-right: 100px;
+}
+.ration-card{
+           font-size: 2.5rem; 
+           font-weight: 900;
+           padding-top: 30px;
+           padding-left: 10px;
+}
+.taskbar-rc{
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            margin-top: 60px;
+            height: 50px;
+            width: 90%;
+            background-color: rgb(62, 62, 188);
+            color: whitesmoke;
+            border-radius: 25px;
+            margin-left: 25px;
+}
+.margin{
+            margin-left: 25px;
+}
+
+.Info{
+            margin-top: 30px;
+            font-size: 1.45rem;
+            font-weight: 900;
+            margin-bottom: 30px;
+            margin-left: 15px;
+}
+label{
+            display: block;
+            margin-top: 10px;
+            margin-left: 20px;
+            font-weight: 800;
+}
+input{
+            margin-left: 20px;
+            border-radius: 5px;
+            border: 1px solid transparent;
+            height: 20px;
+            margin-top: 5px;
+}
+.user-data{
+            font-size: 1.25rem;
+}
+.address {
+            margin-top: 40px;
+}
+.update-menu{
+            margin-left: 25px;
+            ;
+}
+.update-points{
+            display: flex;
+            margin-top: 10px;
+}
+#Add-Address{
+            margin: 0%;
+            padding: 0%;
+}
+#Remove-Address{
+            margin: 0%;
+            padding: 0%;
+}
+#Add-Members{
+            margin: 0%;
+            padding: 0%;
+}
+#Remove-Member{
+            margin: 0%;
+            padding: 0%;
+}
+
+#name {
+            font-size: 1.2rem;
+            font-weight: 600
+}
+.deets{
+            margin-left: 10px;
+}
+.update-next-point{
+            display: flex;
+}
+#new-address{
+            height: 50px;
+            width: 200px;
+}
+#new-Members{
+            height: 50px;
+            width: 200px;
+}
+
+#names{
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-left:20px;
+            margin-top: 20px;
+}
